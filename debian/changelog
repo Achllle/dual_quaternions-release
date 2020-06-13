@@ -1,0 +1,16 @@
+ros-noetic-dual-quaternions (0.3.2-1focal) focal; urgency=high
+
+  * Use distutils iso setuptools for running on buildfarm
+  * Contributors: Achille
+
+ -- achille <achille.verheye@gmail.com>  Fri, 12 Jun 2020 07:00:00 -0000
+
+ros-noetic-dual-quaternions (0.3.1-1focal) focal; urgency=high
+
+  * Fix rst reference
+  * Initial commit: copy dual_quaternions over from dual_quaternions_ros
+  * Contributors: Achille
+
+ -- achille <achille.verheye@gmail.com>  Thu, 28 May 2020 07:00:00 -0000
+
+
